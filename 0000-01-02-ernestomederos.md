@@ -1,6 +1,6 @@
 # Welcome to my Planet 🪐
 
-
+![Avatar](./image/avatar.jpg)
 
 #### Full time Web Development student at DCI 👨‍🎓
 #### Passionate about books and languages 📖
