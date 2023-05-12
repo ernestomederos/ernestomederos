@@ -1,4 +1,4 @@
-# Hello world 🪐
+# Hello world! 🪐
 
 <img src="./image/avatar.jpg" style="width:100px">
 
