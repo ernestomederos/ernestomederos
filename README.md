@@ -1,7 +1,6 @@
-# Welcome to my Planet 🪐
+# Hello world 🪐
 
 <img src="./image/avatar.jpg" style="width:100px">
 
-#### Currently a full-time Web Development student at DCI 👨‍🎓
-#### Always passionate about books and languages 📖
-#### Future developer and creator  🎸
+#### MERN student at DCI 👨‍🎓
+#### Linguist and programmer 📖
