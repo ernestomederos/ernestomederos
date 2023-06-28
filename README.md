@@ -45,7 +45,13 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 ### Badges
 
+<b>My certifications at the Digital Career Institute</b>
+
+<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="32" height="32">
+
+
 <b>My GitHub Stats</b>
+
 
 <a href="http://www.github.com/ernestomederos"><img src="https://github-readme-stats.vercel.app/api?username=ernestomederos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ernestomederos's GitHub stats" /></a>
 
