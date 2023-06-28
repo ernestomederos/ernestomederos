@@ -41,7 +41,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ernestomederos" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ernestomederosdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/ernestomederos" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ernestomederosdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="auto" height="32" /></a>
 
 ### Badges
 
