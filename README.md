@@ -17,8 +17,8 @@ Beyond my professional pursuits, I find tremendous joy in music—a passion that
 As I embrace the dynamic world of technology, my true passion lies in joining creative teams and collectively building the foundation of services that make a meaningful impact on people's lives. I firmly believe in the power of technology to connect individuals, break language barriers, and foster cultural understanding. By leveraging my linguistic expertise and web development skills, I aim to contribute to innovative projects that empower individuals, amplify voices, and foster inclusive and people-centric experiences.
 
 * 🌍 Currently living in Berlin, DE
-* ✉️ Email at [ernestomederosdev@gmail.com](mailto:ernestomederosdev@gmail.com)
-* 🧠 At the moment I am working on my final project at the Digital Career Institute GmbH, Berlin
+* ✉️ Email me at [ernestomederosdev@gmail.com](mailto:ernestomederosdev@gmail.com)
+* 🧠 At the moment I am working with my classmates on ""my final project at the Digital Career Institute GmbH, Berlin
 
 
 ### Skills
@@ -41,7 +41,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/shahinam2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/cl0udfriendly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shahin-hemmati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/cl0udfriendly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/cl0udfriendly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ernestomederos" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ernestomederosdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="32" height="32" /></a>
 
 ### Badges
 
