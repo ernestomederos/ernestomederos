@@ -18,7 +18,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 * 🌍 Currently living in Berlin, DE
 * ✉️ Email me at [ernestomederosdev@gmail.com](mailto:ernestomederosdev@gmail.com)
-* 🧠 At the moment I am working with my classmates on ""my final project at the Digital Career Institute GmbH, Berlin
+* 🧠 At the moment I am working with my classmates on "Labor Of Love", my final project at the Digital Career Institute GmbH, Berlin
 
 
 ### Skills
@@ -35,7 +35,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+
 </p>
 
 
@@ -47,7 +47,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 <b>My certifications at the Digital Career Institute</b>
 
-<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="32" height="32">
+<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="72" height="72">
 
 
 <b>My GitHub Stats</b>
