@@ -16,7 +16,7 @@ Beyond my professional pursuits, I find tremendous joy in music—a passion that
 
 As I embrace the dynamic world of technology, my true passion lies in joining creative teams and collectively building the foundation of services that make a meaningful impact on people's lives. I firmly believe in the power of technology to connect individuals, break language barriers, and foster cultural understanding. By leveraging my linguistic expertise and web development skills, I aim to contribute to innovative projects that empower individuals, amplify voices, and foster inclusive and people-centric experiences.
 
-* 🌍 Currently living in Berlin, DE
+* 🌍 Currently living in Berlin
 * ✉️ Send me an email to [ernestomederosdev@gmail.com](mailto:ernestomederosdev@gmail.com)
 * 🧠 At the moment I am working with my classmates on "Labor Of Love", my final project at the Digital Career Institute GmbH, Berlin
 
@@ -47,7 +47,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 <b>My certifications at the Digital Career Institute</b>
 
-<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="124" height="124"> <img src= "https://media.eu.badgr.com/uploads/badges/assertion-7Oa2rG2MSECuShnzdF_J_A.png" width="124" height="124"> <img src= "https://media.eu.badgr.com/uploads/badges/assertion-gEX1ZHEwRZ2hikrJRrJJ5A.png" width="124" height="124">
+<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="124" height="124"> <img src= "https://media.eu.badgr.com/uploads/badges/assertion-7Oa2rG2MSECuShnzdF_J_A.png" width="124" height="124"> <img src= "https://media.eu.badgr.com/uploads/badges/assertion-gEX1ZHEwRZ2hikrJRrJJ5A.png" width="124" height="124"> <img src= "https://media.eu.badgr.com/uploads/badges/assertion-aVweF1yyRhyelFMXN6cEng.png" width="124" height="124">
 
 
 <b>My GitHub Stats</b>
