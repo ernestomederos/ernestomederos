@@ -5,16 +5,20 @@
 My name is Ernesto Mederos García
 ======================================================================================================================================
 
-Web Developer/Former Linguist
+Web Developer/ Former Linguist & Professor
 -----------------------------------------------------
 
-I have worked as Spanish Teacher and specialized in Spanish as Foreign Language. I also did an internship as a data processor for a 
-I have worked as Network Engineer/Administrator/Help-desk in the past and I specialized in cisco networking. My long term goal was to get a CCIE certificate in Routing & Switching but things changed and I had to adapt. So I started learning AWS and I got AWS Certified Cloud Practitioner then I studied Python with the 100 days of code challenge and shared my progress in social media. After that I studied Linux+ and got its certificate and then I studied ducker but didn't go for its certification because the chance of failing in its exam was too high, so I moved on to learning Kubernetes. I studied the basics of K8s with KodeKloud for absolut beginners and then studied half of k8s CKAD exam and I had to stop for sometime because I started a one year web development bootcamp. In this bootcamp I have learned HTML/CSS/SCSS and JavaScript so far and in the upcoming section I will learn about React, APIs, Mongose, Express, etc... During this bootcamp whenever I have some extra time I study AWS and Terraform because my end goal after this bootcamp is to find a job as DevOps engineer.
+Throughout my academic journey, I immersed myself in the rich world of literature, exploring various literary genres, dissecting linguistic structures, and diving deep into the power of storytelling. My time at the University of Havana not only provided me with a solid foundation in these fields but also enabled me to share my knowledge and passion by teaching Spanish as a foreign language. Guiding students in their language learning journey was immensely rewarding, as I witnessed the transformative impact it had on their lives.
 
-* 🌍 I'm based in Borgholahausen, DE
-* ✉️ You can contact me at [shahin.ccie1989@gmail.com](mailto:shahin.ccie1989@gmail.com)
-* 🧠 I'm currently learning AWS Certified SysOps administrator, Terraform, React
+Seeking to complement my linguistic background with a technological edge, I embarked on a web development course at the Digital Career Institute in Berlin. This immersive experience has equipped me with practical skills in front-end and back-end web development, along with a deep understanding of modern technologies and frameworks, mainly the MERN stack. The ability to fuse my linguistic expertise with technological prowess has been instrumental in conceptualizing and developing user-centric digital solutions.
 
+Beyond my professional pursuits, I find tremendous joy in music—a passion that fuels my creativity and complements my multidisciplinary approach. Whether it's exploring diverse genres, playing an instrument, or collaborating with fellow musicians, music has taught me the value of harmonious teamwork, discipline, and the art of expression.
+
+As I embrace the dynamic world of technology, my true passion lies in joining creative teams and collectively building the foundation of services that make a meaningful impact on people's lives. I firmly believe in the power of technology to connect individuals, break language barriers, and foster cultural understanding. By leveraging my linguistic expertise and web development skills, I aim to contribute to innovative projects that empower individuals, amplify voices, and foster inclusive and people-centric experiences.
+
+* 🌍 Currently living in Berlin, DE
+* ✉️ Email at [ernestomederosdev@gmail.com](mailto:ernestomederosdev@gmail.com)
+* 🧠 At the moment I am working on my final project at the Digital Career Institute GmbH, Berlin
 
 
 ### Skills
