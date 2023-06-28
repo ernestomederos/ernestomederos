@@ -47,7 +47,7 @@ As I embrace the dynamic world of technology, my true passion lies in joining cr
 
 <b>My certifications at the Digital Career Institute</b>
 
-<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="92" height="92">
+<p align="left"><img src= "https://media.eu.badgr.com/uploads/badges/assertion-z-XnOAe6SGeDLTdo78MQHg.png" width="124" height="124">
 
 
 <b>My GitHub Stats</b>
