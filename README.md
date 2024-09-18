@@ -8,27 +8,27 @@ Ernesto Mederos García
 Web Developer | Linguist Turned Coder
 -----------------------------------------------------
 
-I took a road less traveled—diving headfirst from linguistics and literature into the cutting-edge web development realm. Here’s the deal: I’m not your average coder, and here’s why that’s your unfair advantage.
+I took a road less traveled—diving headfirst from linguistics and literature into the cutting-edge web development realm.
 
-I spent years dissecting the finest nuances of language at the University of Havana, teaching people to communicate across cultures. That’s where I honed the art of creating things people understand and want. I’ve supercharged that expertise with the most sought-after technical skills in today’s market.
+I spent years dissecting the finest nuances of language at the University of Havana, teaching people to communicate across cultures. That’s where I honed the art of creating things people understand and want. I’ve supercharged that expertise with some of the most sought-after technical skills in today’s market.
 
 👨‍💻 The Tech
 
-MERN stack? Check. Full-stack web apps? Check. User-centric solutions that make you think, “Why didn’t anyone else build this?” That’s what I do. I’ve trained at the Digital Career Institute in Berlin, grinding through front-end, back-end, and everything in between, and now I’m finishing my capstone project “MEG4DEV”.
+MERN stack? Check. Full-stack web apps? Check. User-centric solutions that make you think, “Why didn’t anyone else take this approach?” That’s what I do. I trained at the Digital Career Institute in Berlin, mastering front-end, back-end, and everything in between, and now I’m wrapping up my freelancing project, "MEG4DEV."
 
 🎯 The Result
 
-You get a developer who doesn’t just push pixels or write syntax. I bring the same obsessive attention to detail that made me a standout linguist in code. I build solutions that speak to people and solve their real-world problems. Whether it’s fixing communication gaps through intuitive design or delivering code that works across borders, I’ve got it covered.
+I'm a developer who doesn’t just push pixels or write syntax. I bring the same obsessive attention to detail that made me a standout linguist into my coding. I focus on creating technical solutions that deliver long-term value and leverage the core strengths of any enterprise.
 
 🎶 The Edge
 
-What fuels my creativity? Music. Every code I write has rhythm, and just like in music, I understand the power of collaboration, discipline, and hitting the right notes—whether it’s with a team or when crafting a seamless user experience.
+What fuels my creativity? Music. Every line of code I write has its own rhythm, and much like in music, I understand the importance of collaboration, discipline, and hitting the right notes—whether it’s with a team or when crafting a seamless user experience. There's also nothing more inspiring for morning programming than a cup of black coffee and an intimate jazz playlist.
 
 🚀 Why Should You Care?
 
-Here’s the blunt truth: If you don’t give me a shot, someone else will, and they’ll reap the benefits of having a developer who doesn’t just understand code, but understands people.
+Here’s the blunt truth: I believe opportunities don’t just come to you—you have to create them.
 
-Do you want someone who writes code? Or someone who elevates your project into something that moves people?
+Do you want someone who simply writes code, or someone who transforms your project into something that truly moves people?
 
 Your call.
 
