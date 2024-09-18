@@ -13,18 +13,21 @@ I took a road less traveled—diving headfirst from linguistics and literature i
 I spent years dissecting the finest nuances of language at the University of Havana, teaching people to communicate across cultures. That’s where I honed the art of creating things people understand and want. Now, I’ve supercharged that expertise with the most sought-after technical skills in today’s market.
 
 👨‍💻 The Tech
+
 MERN stack? Check. Full-stack web apps? Check. User-centric solutions that make you think, “Why didn’t anyone else build this?” That’s what I do. I’ve trained at the Digital Career Institute in Berlin, grinding through front-end, back-end, and everything in between, and now I’m finishing my capstone project “MEG4DEV”.
 
 🎯 The Result
+
 You get a developer who doesn’t just push pixels or write syntax. I bring the same obsessive attention to detail that made me a standout linguist in the world of code. I build solutions that speak to people and solve their real-world problems. Whether it’s fixing communication gaps through intuitive design or delivering code that works across borders, I’ve got it covered.
 
 🎶 The Edge
+
 What fuels my creativity? Music. Every code I write has rhythm, and just like in music, I understand the power of collaboration, discipline, and hitting the right notes—whether it’s with a team or when crafting a seamless user experience.
 
 🚀 Why Should You Care?
 Here’s the blunt truth: If you don’t give me a shot, someone else will, and they’ll reap the benefits of having a developer who doesn’t just understand code, but understands people.
 
-Do you want someone who just writes code? Or someone who elevates your project into something that actually moves people?
+Do you want someone who writes code? Or someone who elevates your project into something that moves people?
 
 Your call.
 
